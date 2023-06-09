@@ -1,0 +1,126 @@
+{
+    "user":[
+        {
+            "id": 1,
+            "name": "Anyerson",
+            "number": "3003614420",
+            "password": "Lord143",
+            "image": "https://static.nationalgeographic.es/files/styles/image_3200/public/75552.ngsversion.1422285553360.jpg?w=1600&h=1067",
+            "flag": false, 
+            "info": "Hola, estoy usando WhatsApp.",
+            "ConectionLast": "Ayer"  
+        },
+        {
+            "id": 2,
+            "name": "Snaidy",
+            "number": "3133934483",
+            "password": "12345",
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.senalcolombia.tv%2Fcine%2Fpelicula-kiki-ghibli-miyazaki&psig=AOvVaw2Os5a52kT7JFRjqGVM43vs&ust=1686427740349000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCq9In_tv8CFQAAAAAdAAAAABAE",
+            "flag": false, 
+            "info": "Vous avez poison au coeur, Mademoiselle 🖤☠" ,
+            "ConectionLast": "Hoy"  
+        },
+        {
+            "id": 3,
+            "name": "Nietzsche",
+            "number": "3003614400",
+            "password": "Ubermech",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nietzsche187a.jpg/1200px-Nietzsche187a.jpg",
+            "flag": false, 
+            "info": "Superhombre",
+            "ConectionLast": "Ayer"  
+        },
+        {
+            "id": 4,
+            "name": "Dan Reynolds",
+            "number": "3013435539",
+            "password": "Lord143",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/dan-reynolds-of-imagine-dragons-attends-the-22nd-annual-news-photo-1057377746-1555446112.jpg?crop=0.680xw:1.00xh;0.140xw,0&resize=1200:*",
+            "flag": false, 
+            "info": "I'll always be around wherever life takes you.",
+            "ConectionLast": "Ayer"  
+        },
+        {
+            "id": 5,
+            "name": "Joaquín",
+            "number": "3013614420",
+            "password": "Ruido",
+            "image": "https://i.scdn.co/image/ab6761610000e5ebd30f9a429e2aa4eb9d1ddf21",
+            "flag": false, 
+            "info": "¿Quién me ha robado el mes de abril?",
+            "ConectionLast": "Ayer"  
+        }
+    ],
+    "conversation": 
+    [
+
+        {
+            "idUser1": 2,
+            "idUser2": 4,
+            "chats": 
+            [
+                {
+                    "sendBy": 2, 
+                    "date": "Hoy",
+                    "hour": "12:00",
+                    "message": "Hola, hombre, ¿cómo vas?",
+                    "flag":false
+                },
+                
+                {
+                    "sendBy": 4, 
+                    "date": "Hoy",
+                    "hour": "12:01",
+                    "message": "Hola, todo está genial. Y ¿qué tal tú?",
+                    "flag":false
+                }
+            ]
+        },
+        {
+            "idUser1": 1,
+            "idUser2": 3,
+            "chats": 
+            [
+                {
+                    "sendBy": 1, 
+                    "date": "Hoy",
+                    "hour": "11:00",
+                    "message": "Hola, hombre, ¿cómo vas?",
+                    "flag":false
+                },
+                
+                {
+                    "sendBy": 3, 
+                    "date": "Hoy",
+                    "hour": "12:01",
+                    "message": "Hola, todo está genial. Y ¿qué tal tú?",
+                    "flag":false
+                }
+            ]
+        },
+        {
+            "idUser1": 3,
+            "idUser2": 5,
+            "chats": 
+            [
+                {
+                    "sendBy": 3, 
+                    "date": "Hoy",
+                    "hour": "02:00",
+                    "message": "Hola, hombre, ¿cómo vas?",
+                    "flag":false
+                },
+                
+                {
+                    "sendBy": 5, 
+                    "date": "Hoy",
+                    "hour": "12:01",
+                    "message": "Hola, todo está genial. Y ¿qué tal tú?",
+                    "flag":false
+                }
+            ]
+        }
+
+        
+    ]
+}
