@@ -55,23 +55,23 @@
     [
 
         {
-            "idUser1": 2,
-            "idUser2": 4,
+            "idUser1": 1,
+            "idUser2": 2,
             "chats": 
             [
                 {
-                    "sendBy": 2, 
+                    "sendBy": 1, 
                     "date": "Hoy",
                     "hour": "12:00",
-                    "message": "Hola, hombre, ¿cómo vas?",
-                    "flag":false
+                    "message": "Hola, Snay.",
+                    "flag":true
                 },
                 
-                {
-                    "sendBy": 4, 
+                { 
+                    "sendBy": 2, 
                     "date": "Hoy",
                     "hour": "12:01",
-                    "message": "Hola, todo está genial. Y ¿qué tal tú?",
+                    "message": "Hola, Anyerson, soy Snaidy,  todo está genial. Y ¿qué tal tú?",
                     "flag":false
                 }
             ]
@@ -85,16 +85,148 @@
                     "sendBy": 1, 
                     "date": "Hoy",
                     "hour": "11:00",
-                    "message": "Hola, hombre, ¿cómo vas?",
-                    "flag":false
+                    "message": "Hola, Nietzsche, hombre, ¿cómo vas?",
+                    "flag":true
                 },
                 
                 {
                     "sendBy": 3, 
                     "date": "Hoy",
                     "hour": "12:01",
-                    "message": "Hola, todo está genial. Y ¿qué tal tú?",
+                    "message": "Hola, Anyerson, soy el SuperHombre,  todo está genial. Y ¿qué tal tú?",
+                    "flag":true
+                }
+            ]
+        },
+        {
+            "idUser1": 1,
+            "idUser2": 4,
+            "chats": 
+            [
+                {
+                    "sendBy": 1, 
+                    "date": "Hoy",
+                    "hour": "02:00",
+                    "message": "Hola, Dan, hombre, ¿cómo vas?",
+                    "flag":true
+                },
+                
+                {
+                    "sendBy": 4, 
+                    "date": "Hoy",
+                    "hour": "12:01",
+                    "message": "Hola, Anyerson, soy Dan,  todo está genial. Y ¿qué tal tú?",
                     "flag":false
+                }
+            ]
+        },
+        {
+            "idUser1": 1,
+            "idUser2": 5,
+            "chats": 
+            [
+                {
+                    "sendBy": 1, 
+                    "date": "Hoy",
+                    "hour": "02:00",
+                    "message": "Hola, Joaquín, hombre, ¿cómo vas?",
+                    "flag":true
+                },
+                
+                {
+                    "sendBy": 5, 
+                    "date": "Hoy",
+                    "hour": "12:01",
+                    "message": "Hola, Anyerson, soy Joaquín, todo está genial. Y ¿qué tal tú?",
+                    "flag":false
+                }
+            ]
+        },
+        {
+            "idUser1": 2,
+            "idUser2": 3,
+            "chats": 
+            [
+                {
+                    "sendBy": 2, 
+                    "date": "Hoy",
+                    "hour": "02:00",
+                    "message": "Hola, Nietzsche, hombre, ¿cómo vas?",
+                    "flag":true
+                },
+                
+                {
+                    "sendBy": 3, 
+                    "date": "Hoy",
+                    "hour": "12:01",
+                    "message": "Hola, Snay, soy Nietzsche, todo está genial. Y ¿qué tal tú?",
+                    "flag":true
+                }
+            ]
+        },
+        {
+            "idUser1": 2,
+            "idUser2": 4,
+            "chats": 
+            [
+                {
+                    "sendBy": 2, 
+                    "date": "Hoy",
+                    "hour": "12:00",
+                    "message": "Hola, Daaan.",
+                    "flag":true
+                },
+                
+                { 
+                    "sendBy": 4, 
+                    "date": "Hoy",
+                    "hour": "12:01",
+                    "message": "Hola, Snaidy, soy Dan Reynolds,  todo está genial. Y ¿qué tal tú?",
+                    "flag":false
+                }
+            ]
+        },
+        {
+            "idUser1": 2,
+            "idUser2": 5,
+            "chats": 
+            [
+                {
+                    "sendBy": 2, 
+                    "date": "Hoy",
+                    "hour": "11:00",
+                    "message": "Hola, Joaquín, hombre, ¿cómo vas?",
+                    "flag":true
+                },
+                
+                {
+                    "sendBy": 5, 
+                    "date": "Hoy",
+                    "hour": "12:01",
+                    "message": "Hola, Snay, soy el Joaquín,  todo está genial. Y ¿qué tal tú?",
+                    "flag":false
+                }
+            ]
+        },
+        {
+            "idUser1": 3,
+            "idUser2": 4,
+            "chats": 
+            [
+                {
+                    "sendBy": 3, 
+                    "date": "Hoy",
+                    "hour": "02:00",
+                    "message": "Dan Reynolds.",
+                    "flag":true
+                },
+                
+                {
+                    "sendBy": 4, 
+                    "date": "Hoy",
+                    "hour": "12:01",
+                    "message": "Señor Nietzsche...",
+                    "flag":true
                 }
             ]
         },
@@ -107,15 +239,37 @@
                     "sendBy": 3, 
                     "date": "Hoy",
                     "hour": "02:00",
-                    "message": "Hola, hombre, ¿cómo vas?",
-                    "flag":false
+                    "message": "Joaquín.",
+                    "flag":true
                 },
                 
                 {
                     "sendBy": 5, 
                     "date": "Hoy",
                     "hour": "12:01",
-                    "message": "Hola, todo está genial. Y ¿qué tal tú?",
+                    "message": "Señor Nietzsche...",
+                    "flag":false
+                }
+            ]
+        },
+        {
+            "idUser1": 4,
+            "idUser2": 5,
+            "chats": 
+            [
+                {
+                    "sendBy": 4, 
+                    "date": "Hoy",
+                    "hour": "02:00",
+                    "message": "Hola, Joaquín, hombre, ¿cómo vas?",
+                    "flag":true
+                },
+                
+                {
+                    "sendBy": 5, 
+                    "date": "Hoy",
+                    "hour": "12:01",
+                    "message": "Hola, Dan, soy Joaquín, todo está genial. Y ¿qué tal tú?",
                     "flag":false
                 }
             ]
